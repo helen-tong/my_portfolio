@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Analytics Portfolio on Helen Tong</title>
+    <link>https://helen-tong.github.io/my_portfolio/</link>
+    <description>Recent content in Data Analytics Portfolio on Helen Tong</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 12 Jun 2020 10:58:08 -0400</lastBuildDate>
+    
+	<atom:link href="https://helen-tong.github.io/my_portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Kickstarting Your Project</title>
+      <link>https://helen-tong.github.io/my_portfolio/post/kickstarter/</link>
+      <pubDate>Fri, 12 Jun 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://helen-tong.github.io/my_portfolio/post/kickstarter/</guid>
+      <description>This project uses machine learning to predict whether a Kickstarter campaign will meet its funding goal within 30 days of its launch. I started with basic campaign information from ~204,000 campaigns. As a baseline model, I optimized Logistic Regression, Random Forest Classifier, and Gradient Boost Classifier using GridsearchCV to reach the best model, achieving 75% accuracy. Next I used Pypeteer to scrape comments off of the Kickstarter website as an attempt to improve my model.</description>
+    </item>
+    
+    <item>
+      <title>San Francisco Airbnb Listing Price Analysis</title>
+      <link>https://helen-tong.github.io/my_portfolio/post/airbnb/</link>
+      <pubDate>Fri, 10 Apr 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://helen-tong.github.io/my_portfolio/post/airbnb/</guid>
+      <description>I ran a hypothesis test on all listings for San Francisco in 2019 - I wanted to find out if neighborhoods matter when it comes to Airbnb listings price. I ran Welch&amp;rsquo;s T-Test and Mann-Whitney U-Test to compare between two groups of nearby neighborhoods. Both Welch&amp;rsquo;s t-tests and Mann-Whitney U Tests return statistically significant results to indicate Airbnb listing prices do vary by neighborhoods in San Francisco, even if they are in close proximity.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://helen-tong.github.io/my_portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://helen-tong.github.io/my_portfolio/contact/</guid>
+      <description>          Email: helen.tong718@gmail.com    LinkedIn: https://www.linkedin.com/in/helen-tong    Github: https://github.com/helen-tong     </description>
+    </item>
+    
+  </channel>
+</rss>
